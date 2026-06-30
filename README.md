@@ -221,9 +221,9 @@ Setiap class memiliki tanggung jawab yang berbeda sesuai fungsi masing-masing se
 
 ## Author
 
-**Nama** : Yabes Paskah Sinaga
+**Nama** : Ubaidillah Sahrizal
 
-**NIM** : 2515101107
+**NIM** : 2515101106
 
 **Program Studi** : Ilmu Komputer
 
