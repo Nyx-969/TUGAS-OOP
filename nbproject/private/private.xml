@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/rizal/Documents/NetBeansProjects/Tugas-OOP-Mahasiswa-main/src/nilaimahasiswa/controller/StudentController.java</file>
+            <file>file:/C:/Users/rizal/Documents/NetBeansProjects/Tugas-OOP-Mahasiswa-main/src/nilaimahasiswa/util/DatabaseConnection.java</file>
+            <file>file:/C:/Users/rizal/Documents/NetBeansProjects/Tugas-OOP-Mahasiswa-main/src/nilaimahasiswa/dao/UserDAO.java</file>
+            <file>file:/C:/Users/rizal/Documents/NetBeansProjects/Tugas-OOP-Mahasiswa-main/src/nilaimahasiswa/view/Dashboard.java</file>
+            <file>file:/C:/Users/rizal/Documents/NetBeansProjects/Tugas-OOP-Mahasiswa-main/src/nilaimahasiswa/view/LoginForm.java</file>
+            <file>file:/C:/Users/rizal/Documents/NetBeansProjects/Tugas-OOP-Mahasiswa-main/src/nilaimahasiswa/view/UITheme.java</file>
+            <file>file:/C:/Users/rizal/Documents/NetBeansProjects/Tugas-OOP-Mahasiswa-main/src/nilaimahasiswa/view/panelDosen.java</file>
+            <file>file:/C:/Users/rizal/Documents/NetBeansProjects/Tugas-OOP-Mahasiswa-main/src/nilaimahasiswa/controller/CourseController.java</file>
+            <file>file:/C:/Users/rizal/Documents/NetBeansProjects/Tugas-OOP-Mahasiswa-main/src/nilaimahasiswa/NilaiMahasiswa.java</file>
+            <file>file:/C:/Users/rizal/Documents/NetBeansProjects/Tugas-OOP-Mahasiswa-main/src/nilaimahasiswa/controller/KrsController.java</file>
+            <file>file:/C:/Users/rizal/Documents/NetBeansProjects/Tugas-OOP-Mahasiswa-main/src/nilaimahasiswa/controller/LecturerController.java</file>
+            <file>file:/C:/Users/rizal/Documents/NetBeansProjects/Tugas-OOP-Mahasiswa-main/src/nilaimahasiswa/controller/UserController.java</file>
+            <file>file:/C:/Users/rizal/Documents/NetBeansProjects/Tugas-OOP-Mahasiswa-main/src/nilaimahasiswa/dao/CourseDAO.java</file>
+            <file>file:/C:/Users/rizal/Documents/NetBeansProjects/Tugas-OOP-Mahasiswa-main/src/nilaimahasiswa/dao/KrsDAO.java</file>
+            <file>file:/C:/Users/rizal/Documents/NetBeansProjects/Tugas-OOP-Mahasiswa-main/src/nilaimahasiswa/dao/LecturerDAO.java</file>
+            <file>file:/C:/Users/rizal/Documents/NetBeansProjects/Tugas-OOP-Mahasiswa-main/src/nilaimahasiswa/dao/StudentDAO.java</file>
+            <file>file:/C:/Users/rizal/Documents/NetBeansProjects/Tugas-OOP-Mahasiswa-main/src/nilaimahasiswa/model/Course.java</file>
+            <file>file:/C:/Users/rizal/Documents/NetBeansProjects/Tugas-OOP-Mahasiswa-main/src/nilaimahasiswa/model/KRS.java</file>
+            <file>file:/C:/Users/rizal/Documents/NetBeansProjects/Tugas-OOP-Mahasiswa-main/src/nilaimahasiswa/model/Lecturer.java</file>
+            <file>file:/C:/Users/rizal/Documents/NetBeansProjects/Tugas-OOP-Mahasiswa-main/src/nilaimahasiswa/model/Person.java</file>
+            <file>file:/C:/Users/rizal/Documents/NetBeansProjects/Tugas-OOP-Mahasiswa-main/src/nilaimahasiswa/model/Student.java</file>
+            <file>file:/C:/Users/rizal/Documents/NetBeansProjects/Tugas-OOP-Mahasiswa-main/src/nilaimahasiswa/model/User.java</file>
+            <file>file:/C:/Users/rizal/Documents/NetBeansProjects/Tugas-OOP-Mahasiswa-main/src/nilaimahasiswa/util/DataStore.java</file>
+            <file>file:/C:/Users/rizal/Documents/NetBeansProjects/Tugas-OOP-Mahasiswa-main/src/nilaimahasiswa/view/panelInputNilai.java</file>
+            <file>file:/C:/Users/rizal/Documents/NetBeansProjects/Tugas-OOP-Mahasiswa-main/src/nilaimahasiswa/view/panelMahasiswa.java</file>
+            <file>file:/C:/Users/rizal/Documents/NetBeansProjects/Tugas-OOP-Mahasiswa-main/src/nilaimahasiswa/view/panelMataKuliah.java</file>
+        </group>
+    </open-files>
+</project-private>
